@@ -4,5 +4,6 @@
   "exact_korean_pngs": 210,
   "reviewed_zz_pngs": 102,
   "image_pairs_total": 312,
-  "note": "Some Chinese-only image assets remain untranslated."
+  "note": "Some Chinese-only image assets remain untranslated.",
+  "font_rendering": "Native Nanum Gothic alpha bitmap glyphs with native bold/outline filters; every locale uses bitmap declarations."
 }

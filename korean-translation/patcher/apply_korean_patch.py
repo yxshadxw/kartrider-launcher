@@ -2,7 +2,8 @@ from pathlib import Path
 import collections, hashlib, json, struct, sys, zlib
 from decode_pk import Reader
 from read_rho import Rho
-from korean_resources import encode_xml, font_korean, korean_font_payloads, patch_archive, read_game_index, translate_tree
+from korean_resources import encode_xml, patch_archive, read_game_index, translate_tree
+from native_font import font_tree, native_font_payloads
 BASE = Path(__file__).resolve().parent
 IMAGES = json.loads((BASE / "image-replacements.json").read_text(encoding="utf-8"))
 IMAGE_MAP = collections.defaultdict(list)
@@ -26,7 +27,9 @@ def patch(data_dir, output_dir):
                     payload=rho.content(e); reader=Reader(payload); tree=reader.node()
                     if reader.p!=len(payload): raise ValueError("Trailing binary XML bytes")
                     count=translate_tree(tree)
-                    font=(name=="gui_font.rho" and e["path"] in ("font@cn.bml","font@kr.bml") and font_korean(tree))
+                    font=(name=="gui_font.rho" and e["path"].startswith("font@") and e["path"].endswith(".bml"))
+                    if font:
+                        tree=font_tree()
                     if count or font:
                         replacements[e["path"]]=encode_xml(tree)
                         resource_rows.append({"archive":name,"member":e["path"],"translated_values":count,"font_patch":bool(font)})
@@ -36,7 +39,7 @@ def patch(data_dir, output_dir):
                 target=entries.get(row["target"]); source=entries.get(row["source"])
                 if target is None or source is None: raise ValueError(f"Image pair missing: {name}:{row['target']}")
                 replacements[row["target"]]=rho.content(source)
-            if name=="gui_font.rho": replacements.update(korean_font_payloads())
+            if name=="gui_font.rho": replacements.update(native_font_payloads(rho))
         finally: rho.f.close()
         if replacements: archives.append(patch_archive(src,output_dir/name,key,replacements))
     by_name={a["file"]:a for a in archives}
