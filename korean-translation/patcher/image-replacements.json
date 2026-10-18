@@ -1,0 +1,1874 @@
+[
+  {
+    "archive": "dialog.rho",
+    "target": "bingoGachaDialog/달성확인_01@cn.png",
+    "source": "bingoGachaDialog/달성확인_01@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "bingoGachaDialog/달성확인_02@cn.png",
+    "source": "bingoGachaDialog/달성확인_02@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "bingoGachaDialog/달성확인_03@cn.png",
+    "source": "bingoGachaDialog/달성확인_03@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "bingoGachaDialog/달성확인_04@cn.png",
+    "source": "bingoGachaDialog/달성확인_04@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "rpsGameDialog/win@cn.png",
+    "source": "rpsGameDialog/win@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "simGameRankDialog/simul_helpInfoBG@cn.png",
+    "source": "simGameRankDialog/simul_helpInfoBG@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "simGameRankDialog/simul_rankingInfoBG@cn.png",
+    "source": "simGameRankDialog/simul_rankingInfoBG@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "simGameRankDialog/simul_rankingReward_NumText@cn.png",
+    "source": "simGameRankDialog/simul_rankingReward_NumText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/01_win@cn.png",
+    "source": "versusModeRecord/01_win@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/02_lose@cn.png",
+    "source": "versusModeRecord/02_lose@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/03_draw@cn.png",
+    "source": "versusModeRecord/03_draw@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/03_win_tip@cn.png",
+    "source": "versusModeRecord/03_win_tip@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/04_lose_tip@cn.png",
+    "source": "versusModeRecord/04_lose_tip@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/05_blue_s@cn.png",
+    "source": "versusModeRecord/05_blue_s@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/05_draw_tip@cn.png",
+    "source": "versusModeRecord/05_draw_tip@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/06_red_s@cn.png",
+    "source": "versusModeRecord/06_red_s@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "versusModeRecord/bg@cn.png",
+    "source": "versusModeRecord/bg@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_progressDialog.rho",
+    "target": "step10_1@cn.png",
+    "source": "step10_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_questInfo.rho",
+    "target": "step10_1@cn.png",
+    "source": "step10_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_questInfo2KartPass.rho",
+    "target": "quest_btn_slotClear_1@cn.png",
+    "source": "quest_btn_slotClear_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_questInfo2KartPass.rho",
+    "target": "quest_btn_slotClear_2@cn.png",
+    "source": "quest_btn_slotClear_2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_questInfo2KartPass.rho",
+    "target": "quest_btn_slotClear_3@cn.png",
+    "source": "quest_btn_slotClear_3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_selectItemEx.rho",
+    "target": "pcCafe_1@cn.png",
+    "source": "pcCafe_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_selectItemEx.rho",
+    "target": "pcCafe_2@cn.png",
+    "source": "pcCafe_2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_selectItemEx.rho",
+    "target": "pcCafe_3@cn.png",
+    "source": "pcCafe_3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_selectItemEx.rho",
+    "target": "pcCafe_4@cn.png",
+    "source": "pcCafe_4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog2_selectTrackEx.rho",
+    "target": "bokbulbokRandom@cn.png",
+    "source": "bokbulbokRandom@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "gui_tachometer.rho",
+    "target": "pylon/pylon@cn.png",
+    "source": "pylon/pylon@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_aiItemTeamGame.rho",
+    "target": "specialAttackScene/DynamiteRobot/text@cn.png",
+    "source": "specialAttackScene/DynamiteRobot/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_aiItemTeamGame.rho",
+    "target": "specialAttackScene/HammerRobot/text@cn.png",
+    "source": "specialAttackScene/HammerRobot/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_aiItemTeamGame.rho",
+    "target": "specialAttackScene/abyss/text@cn.png",
+    "source": "specialAttackScene/abyss/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_aiItemTeamGame.rho",
+    "target": "specialAttackScene/northeu/text@cn.png",
+    "source": "specialAttackScene/northeu/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_battleReady.rho",
+    "target": "ghostVs@cn.png",
+    "source": "ghostVs@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_bossGame.rho",
+    "target": "specialAttackScene/11/text@cn.png",
+    "source": "specialAttackScene/11/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_bossGame.rho",
+    "target": "specialAttackScene/12/text@cn.png",
+    "source": "specialAttackScene/12/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_bossGame.rho",
+    "target": "specialAttackScene/13/text@cn.png",
+    "source": "specialAttackScene/13/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_bossGame.rho",
+    "target": "specialAttackScene/91/text@cn.png",
+    "source": "specialAttackScene/91/text@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_레전드@cn.png",
+    "source": "경쟁전_등급텍스트L_레전드@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_마스터1@cn.png",
+    "source": "경쟁전_등급텍스트L_마스터1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_마스터2@cn.png",
+    "source": "경쟁전_등급텍스트L_마스터2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_마스터3@cn.png",
+    "source": "경쟁전_등급텍스트L_마스터3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_마스터4@cn.png",
+    "source": "경쟁전_등급텍스트L_마스터4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_마스터5@cn.png",
+    "source": "경쟁전_등급텍스트L_마스터5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_미참여@cn.png",
+    "source": "경쟁전_등급텍스트L_미참여@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_시니어1@cn.png",
+    "source": "경쟁전_등급텍스트L_시니어1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_시니어2@cn.png",
+    "source": "경쟁전_등급텍스트L_시니어2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_시니어3@cn.png",
+    "source": "경쟁전_등급텍스트L_시니어3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_시니어4@cn.png",
+    "source": "경쟁전_등급텍스트L_시니어4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_시니어5@cn.png",
+    "source": "경쟁전_등급텍스트L_시니어5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_아마추어1@cn.png",
+    "source": "경쟁전_등급텍스트L_아마추어1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_아마추어2@cn.png",
+    "source": "경쟁전_등급텍스트L_아마추어2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_아마추어3@cn.png",
+    "source": "경쟁전_등급텍스트L_아마추어3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_아마추어4@cn.png",
+    "source": "경쟁전_등급텍스트L_아마추어4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_아마추어5@cn.png",
+    "source": "경쟁전_등급텍스트L_아마추어5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_주니어1@cn.png",
+    "source": "경쟁전_등급텍스트L_주니어1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_주니어2@cn.png",
+    "source": "경쟁전_등급텍스트L_주니어2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_주니어3@cn.png",
+    "source": "경쟁전_등급텍스트L_주니어3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_주니어4@cn.png",
+    "source": "경쟁전_등급텍스트L_주니어4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_주니어5@cn.png",
+    "source": "경쟁전_등급텍스트L_주니어5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_진행예정@cn.png",
+    "source": "경쟁전_등급텍스트L_진행예정@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_프로1@cn.png",
+    "source": "경쟁전_등급텍스트L_프로1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_프로2@cn.png",
+    "source": "경쟁전_등급텍스트L_프로2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_프로3@cn.png",
+    "source": "경쟁전_등급텍스트L_프로3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_프로4@cn.png",
+    "source": "경쟁전_등급텍스트L_프로4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트L_프로5@cn.png",
+    "source": "경쟁전_등급텍스트L_프로5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_레전드@cn.png",
+    "source": "경쟁전_등급텍스트M_레전드@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_마스터1@cn.png",
+    "source": "경쟁전_등급텍스트M_마스터1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_마스터2@cn.png",
+    "source": "경쟁전_등급텍스트M_마스터2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_마스터3@cn.png",
+    "source": "경쟁전_등급텍스트M_마스터3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_마스터4@cn.png",
+    "source": "경쟁전_등급텍스트M_마스터4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_마스터5@cn.png",
+    "source": "경쟁전_등급텍스트M_마스터5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_미참여@cn.png",
+    "source": "경쟁전_등급텍스트M_미참여@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_시니어1@cn.png",
+    "source": "경쟁전_등급텍스트M_시니어1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_시니어2@cn.png",
+    "source": "경쟁전_등급텍스트M_시니어2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_시니어3@cn.png",
+    "source": "경쟁전_등급텍스트M_시니어3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_시니어4@cn.png",
+    "source": "경쟁전_등급텍스트M_시니어4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_시니어5@cn.png",
+    "source": "경쟁전_등급텍스트M_시니어5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_아마추어1@cn.png",
+    "source": "경쟁전_등급텍스트M_아마추어1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_아마추어2@cn.png",
+    "source": "경쟁전_등급텍스트M_아마추어2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_아마추어3@cn.png",
+    "source": "경쟁전_등급텍스트M_아마추어3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_아마추어4@cn.png",
+    "source": "경쟁전_등급텍스트M_아마추어4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_아마추어5@cn.png",
+    "source": "경쟁전_등급텍스트M_아마추어5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_주니어1@cn.png",
+    "source": "경쟁전_등급텍스트M_주니어1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_주니어2@cn.png",
+    "source": "경쟁전_등급텍스트M_주니어2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_주니어3@cn.png",
+    "source": "경쟁전_등급텍스트M_주니어3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_주니어4@cn.png",
+    "source": "경쟁전_등급텍스트M_주니어4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_주니어5@cn.png",
+    "source": "경쟁전_등급텍스트M_주니어5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_진행예정@cn.png",
+    "source": "경쟁전_등급텍스트M_진행예정@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_프로1@cn.png",
+    "source": "경쟁전_등급텍스트M_프로1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_프로2@cn.png",
+    "source": "경쟁전_등급텍스트M_프로2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_프로3@cn.png",
+    "source": "경쟁전_등급텍스트M_프로3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_프로4@cn.png",
+    "source": "경쟁전_등급텍스트M_프로4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "경쟁전_등급텍스트M_프로5@cn.png",
+    "source": "경쟁전_등급텍스트M_프로5@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "action/뒤로가기@cn.png",
+    "source": "action/뒤로가기@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "action/성공@cn.png",
+    "source": "action/성공@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "action/앞으로가기@cn.png",
+    "source": "action/앞으로가기@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "action/오른쪽으로가기@cn.png",
+    "source": "action/오른쪽으로가기@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "action/왼쪽으로가기@cn.png",
+    "source": "action/왼쪽으로가기@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "icon/PC방_1@cn.png",
+    "source": "icon/PC방_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "icon/PC방_2@cn.png",
+    "source": "icon/PC방_2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "icon/PC방_3@cn.png",
+    "source": "icon/PC방_3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "icon/PC방_4@cn.png",
+    "source": "icon/PC방_4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_flagTeamGame.rho",
+    "target": "골든플래그_미니_01@cn.png",
+    "source": "골든플래그_미니_01@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_flagTeamGame.rho",
+    "target": "골든플래그_미니_02@cn.png",
+    "source": "골든플래그_미니_02@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_flagTeamGame.rho",
+    "target": "주행중_blue@cn.png",
+    "source": "주행중_blue@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_flagTeamGame.rho",
+    "target": "주행중_red@cn.png",
+    "source": "주행중_red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_gameFinalIndi.rho",
+    "target": "coupleEventBonus1@cn.png",
+    "source": "coupleEventBonus1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_gameFinalIndi.rho",
+    "target": "coupleEventBonus2@cn.png",
+    "source": "coupleEventBonus2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_gameFinalIndi.rho",
+    "target": "coupleRoom1@cn.png",
+    "source": "coupleRoom1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_gameFinalIndi.rho",
+    "target": "coupleRoom2@cn.png",
+    "source": "coupleRoom2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_gameFinalIndi.rho",
+    "target": "pc방1@cn.png",
+    "source": "pc방1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_gameFinalIndi.rho",
+    "target": "pc방2@cn.png",
+    "source": "pc방2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "simulationGame/simul_helpInfoBG@cn.png",
+    "source": "simulationGame/simul_helpInfoBG@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "simulationGame/simul_rankingInfoBG@cn.png",
+    "source": "simulationGame/simul_rankingInfoBG@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "simulationGame/simul_rankingReward_NumText@cn.png",
+    "source": "simulationGame/simul_rankingReward_NumText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "versusMode/myinfo@cn.png",
+    "source": "versusMode/myinfo@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "versusMode/myinfo_2@cn.png",
+    "source": "versusMode/myinfo_2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "versusMode/myinfo_3@cn.png",
+    "source": "versusMode/myinfo_3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "versusMode/ranking@cn.png",
+    "source": "versusMode/ranking@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "versusMode/ranking_chase@cn.png",
+    "source": "versusMode/ranking_chase@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceGameFinal.rho",
+    "target": "blueWin@cn.png",
+    "source": "blueWin@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceGameFinal.rho",
+    "target": "redWin@cn.png",
+    "source": "redWin@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceSpeedGame.rho",
+    "target": "result_blue@cn.png",
+    "source": "result_blue@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceSpeedGame.rho",
+    "target": "result_red@cn.png",
+    "source": "result_red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceSpeedGame.rho",
+    "target": "runaway@cn.png",
+    "source": "runaway@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceSpeedGame.rho",
+    "target": "주행중_blue@cn.png",
+    "source": "주행중_blue@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqClubRaceSpeedGame.rho",
+    "target": "주행중_red@cn.png",
+    "source": "주행중_red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqDeathMatchTeamGame.rho",
+    "target": "deathMatch_img_notice@cn.png",
+    "source": "deathMatch_img_notice@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqDeathMatchTeamGame.rho",
+    "target": "deathMatch_img_respawn1_1@cn.png",
+    "source": "deathMatch_img_respawn1_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqDeathMatchTeamGame.rho",
+    "target": "deathMatch_img_respawn2_1@cn.png",
+    "source": "deathMatch_img_respawn2_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqDeathMatchTeamGame.rho",
+    "target": "lap_HandicapText@cn.png",
+    "source": "lap_HandicapText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqDeathMatchTeamGame.rho",
+    "target": "rank_BlockerText@cn.png",
+    "source": "rank_BlockerText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqDeathMatchTeamGame.rho",
+    "target": "rank_RunnerText@cn.png",
+    "source": "rank_RunnerText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqGameFinal.rho",
+    "target": "perpect@cn.png",
+    "source": "perpect@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqRoadBlockSpeedGame.rho",
+    "target": "lap_BlockerText@cn.png",
+    "source": "lap_BlockerText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqRoadBlockSpeedGame.rho",
+    "target": "lap_HandicapText@cn.png",
+    "source": "lap_HandicapText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqRoadBlockSpeedGame.rho",
+    "target": "lap_RunnerText@cn.png",
+    "source": "lap_RunnerText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqRoadBlockSpeedGame.rho",
+    "target": "rank_BlockerText@cn.png",
+    "source": "rank_BlockerText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqRoadBlockSpeedGame.rho",
+    "target": "rank_RunnerText@cn.png",
+    "source": "rank_RunnerText@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameFinal.rho",
+    "target": "blue@cn.png",
+    "source": "blue@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameFinal.rho",
+    "target": "red@cn.png",
+    "source": "red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameFinal.rho",
+    "target": "result_01_fail@cn.png",
+    "source": "result_01_fail@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameFinal.rho",
+    "target": "result_02_win@cn.png",
+    "source": "result_02_win@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameFinal.rho",
+    "target": "result_03_draw@cn.png",
+    "source": "result_03_draw@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "2d_1S_통합@cn.png",
+    "source": "2d_1S_통합@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "result_blue@cn.png",
+    "source": "result_blue@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "result_red@cn.png",
+    "source": "result_red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "runaway@cn.png",
+    "source": "runaway@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "s_03@cn.png",
+    "source": "s_03@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "tag_chaser@cn.png",
+    "source": "tag_chaser@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "주행중_blue@cn.png",
+    "source": "주행중_blue@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "주행중_red@cn.png",
+    "source": "주행중_red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_거리_red@cn.png",
+    "source": "추격전_거리_red@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_결과_추격성공@cn.png",
+    "source": "추격전_결과_추격성공@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_결과_추격실패@cn.png",
+    "source": "추격전_결과_추격실패@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_결과_탈주성공@cn.png",
+    "source": "추격전_결과_탈주성공@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_결과_탈주실패@cn.png",
+    "source": "추격전_결과_탈주실패@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_시작팝업_대결@cn.png",
+    "source": "추격전_시작팝업_대결@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_시작팝업_추격@cn.png",
+    "source": "추격전_시작팝업_추격@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameIndi.rho",
+    "target": "추격전_시작팝업_탈주@cn.png",
+    "source": "추격전_시작팝업_탈주@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "1vs1_track@cn.png",
+    "source": "1vs1_track@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "bg_01@cn.png",
+    "source": "bg_01@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "bg_02@cn.png",
+    "source": "bg_02@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "정비@cn.png",
+    "source": "정비@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "준비@cn.png",
+    "source": "준비@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "추격전_bg_01@cn.png",
+    "source": "추격전_bg_01@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_mqVersusModeGameReady.rho",
+    "target": "추격전_bg_02@cn.png",
+    "source": "추격전_bg_02@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_scene.rho",
+    "target": "확인버튼1@cn.png",
+    "source": "확인버튼1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_scene.rho",
+    "target": "확인버튼2@cn.png",
+    "source": "확인버튼2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_scene.rho",
+    "target": "확인버튼3@cn.png",
+    "source": "확인버튼3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_scene.rho",
+    "target": "확인버튼4@cn.png",
+    "source": "확인버튼4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_shop.rho",
+    "target": "캐시구입1@cn.png",
+    "source": "캐시구입1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_shop.rho",
+    "target": "캐시구입2@cn.png",
+    "source": "캐시구입2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_shop.rho",
+    "target": "캐시구입3@cn.png",
+    "source": "캐시구입3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_shop.rho",
+    "target": "캐시구입4@cn.png",
+    "source": "캐시구입4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_speedIndiGame.rho",
+    "target": "2d_1S_통합2@cn.png",
+    "source": "2d_1S_통합2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_speedIndiGame.rho",
+    "target": "2d_1S_통합3@cn.png",
+    "source": "2d_1S_통합3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_speedIndiGame.rho",
+    "target": "2d_1S_통합@cn.png",
+    "source": "2d_1S_통합@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_speedIndiGame.rho",
+    "target": "runner_lose@cn.png",
+    "source": "runner_lose@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_speedIndiGame.rho",
+    "target": "runner_win@cn.png",
+    "source": "runner_win@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_speedIndiGame.rho",
+    "target": "s_03@cn.png",
+    "source": "s_03@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_myItem_1@cn.png",
+    "source": "contest_btn_myItem_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_myItem_2@cn.png",
+    "source": "contest_btn_myItem_2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_myItem_3@cn.png",
+    "source": "contest_btn_myItem_3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_myItem_4@cn.png",
+    "source": "contest_btn_myItem_4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_start_1@cn.png",
+    "source": "contest_btn_start_1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_start_2@cn.png",
+    "source": "contest_btn_start_2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_start_3@cn.png",
+    "source": "contest_btn_start_3@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_btn_start_4@cn.png",
+    "source": "contest_btn_start_4@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_img_textTitle1@cn.png",
+    "source": "contest_img_textTitle1@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stage_timeAttackCompetitiveReady.rho",
+    "target": "contest_img_textTitle2@cn.png",
+    "source": "contest_img_textTitle2@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "card/lucci_bc50@cn.png",
+    "source": "card/lucci_bc50@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/license0Thumb@cn.png",
+    "source": "license/license0Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/license1Thumb@cn.png",
+    "source": "license/license1Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/license2Thumb@cn.png",
+    "source": "license/license2Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/license3Thumb@cn.png",
+    "source": "license/license3Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/license4Thumb@cn.png",
+    "source": "license/license4Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/license5Thumb@cn.png",
+    "source": "license/license5Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/tempLicense1Thumb@cn.png",
+    "source": "license/tempLicense1Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/tempLicense2Thumb@cn.png",
+    "source": "license/tempLicense2Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/tempLicense3Thumb@cn.png",
+    "source": "license/tempLicense3Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/tempLicense4Thumb@cn.png",
+    "source": "license/tempLicense4Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "license/tempLicense5Thumb@cn.png",
+    "source": "license/tempLicense5Thumb@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "material/스펙터X부품카드_바디@cn.png",
+    "source": "material/스펙터X부품카드_바디@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "material/스펙터X부품카드_엔진@cn.png",
+    "source": "material/스펙터X부품카드_엔진@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "material/스펙터X부품카드_타이어@cn.png",
+    "source": "material/스펙터X부품카드_타이어@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "package/복귀유저환영패@cn.png",
+    "source": "package/복귀유저환영패@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "package/황구패키지@cn.png",
+    "source": "package/황구패키지@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "uniform/olympic_u@cn.png",
+    "source": "uniform/olympic_u@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "balloon/GOD테마풍선/GOD테마풍선@cn.png",
+    "source": "balloon/GOD테마풍선/GOD테마풍선@kr.png",
+    "locale": "kr"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "cardBonusDialog/title@cn.png",
+    "source": "cardBonusDialog/title@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "eventRewardSelect/img_text01@cn.png",
+    "source": "eventRewardSelect/img_text01@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "kartLevelUp/level_btnStart_1@cn.png",
+    "source": "kartLevelUp/level_btnStart_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "kartLevelUp/level_btnStart_2@cn.png",
+    "source": "kartLevelUp/level_btnStart_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "kartLevelUp/level_btnStart_3@cn.png",
+    "source": "kartLevelUp/level_btnStart_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "kartLevelUp/level_btnStart_4@cn.png",
+    "source": "kartLevelUp/level_btnStart_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "missionAttend/alreadyRewardGet@cn.png",
+    "source": "missionAttend/alreadyRewardGet@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "dialog.rho",
+    "target": "seasonPassConfirm/pass_img_popupUpgradeBar@cn.png",
+    "source": "seasonPassConfirm/pass_img_popupUpgradeBar@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "gui_windowTemplate.rho",
+    "target": "changerTuto01@cn.png",
+    "source": "changerTuto01@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "gui_windowTemplate.rho",
+    "target": "changerTuto02@cn.png",
+    "source": "changerTuto02@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_BingoStage.rho",
+    "target": "랜덤보상백판_01@cn.png",
+    "source": "랜덤보상백판_01@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_BingoStage.rho",
+    "target": "랜덤보상백판_02@cn.png",
+    "source": "랜덤보상백판_02@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_LeagueTeamReady.rho",
+    "target": "10경기유지_활성@cn.png",
+    "source": "10경기유지_활성@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_LeagueTeamReady.rho",
+    "target": "20경기유지_활성@cn.png",
+    "source": "20경기유지_활성@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_LeagueTeamReady.rho",
+    "target": "2경기유지_비활성@cn.png",
+    "source": "2경기유지_비활성@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_LeagueTeamReady.rho",
+    "target": "2경기유지_활성@cn.png",
+    "source": "2경기유지_활성@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_LeagueTeamReady.rho",
+    "target": "5경기유지_활성@cn.png",
+    "source": "5경기유지_활성@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_chaserIndiGame.rho",
+    "target": "playInfo@cn.png",
+    "source": "playInfo@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubCreate.rho",
+    "target": "club_btn_createStart_1@cn.png",
+    "source": "club_btn_createStart_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubCreate.rho",
+    "target": "club_btn_createStart_2@cn.png",
+    "source": "club_btn_createStart_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubCreate.rho",
+    "target": "club_btn_createStart_3@cn.png",
+    "source": "club_btn_createStart_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubCreate.rho",
+    "target": "club_btn_createStart_4@cn.png",
+    "source": "club_btn_createStart_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubList.rho",
+    "target": "club_btn_select2_1@cn.png",
+    "source": "club_btn_select2_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubList.rho",
+    "target": "club_btn_select2_2@cn.png",
+    "source": "club_btn_select2_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubList.rho",
+    "target": "club_btn_select2_3@cn.png",
+    "source": "club_btn_select2_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubList.rho",
+    "target": "club_btn_select2_4@cn.png",
+    "source": "club_btn_select2_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select3_1@cn.png",
+    "source": "club_btn_select3_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select3_2@cn.png",
+    "source": "club_btn_select3_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select3_3@cn.png",
+    "source": "club_btn_select3_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select3_4@cn.png",
+    "source": "club_btn_select3_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select4_1@cn.png",
+    "source": "club_btn_select4_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select4_2@cn.png",
+    "source": "club_btn_select4_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select4_3@cn.png",
+    "source": "club_btn_select4_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_clubMain.rho",
+    "target": "club_btn_select4_4@cn.png",
+    "source": "club_btn_select4_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "mission/normal_col@cn.png",
+    "source": "mission/normal_col@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "mission/normal_finish@cn.png",
+    "source": "mission/normal_finish@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "mission/normal_use@cn.png",
+    "source": "mission/normal_use@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "mission/normal_win@cn.png",
+    "source": "mission/normal_win@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_common.rho",
+    "target": "mission/success@cn.png",
+    "source": "mission/success@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_f1GameFinal.rho",
+    "target": "race1_1@cn.png",
+    "source": "race1_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_f1GameFinal.rho",
+    "target": "race1_2@cn.png",
+    "source": "race1_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_f1GameFinal.rho",
+    "target": "race1_3@cn.png",
+    "source": "race1_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_gameFinalChallenger.rho",
+    "target": "subgameType@cn.png",
+    "source": "subgameType@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_gameFinalChallenger.rho",
+    "target": "subgameTypeLose@cn.png",
+    "source": "subgameTypeLose@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_growthKart.rho",
+    "target": "upgradekart_btn_complete@cn.png",
+    "source": "upgradekart_btn_complete@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUseStop_01@cn.png",
+    "source": "btn_autoUseStop_01@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUseStop_02@cn.png",
+    "source": "btn_autoUseStop_02@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUseStop_03@cn.png",
+    "source": "btn_autoUseStop_03@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUseStop_04@cn.png",
+    "source": "btn_autoUseStop_04@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUse_01@cn.png",
+    "source": "btn_autoUse_01@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUse_02@cn.png",
+    "source": "btn_autoUse_02@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUse_03@cn.png",
+    "source": "btn_autoUse_03@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_autoUse_04@cn.png",
+    "source": "btn_autoUse_04@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_use_01@cn.png",
+    "source": "btn_use_01@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_use_02@cn.png",
+    "source": "btn_use_02@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_use_03@cn.png",
+    "source": "btn_use_03@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_magicHat.rho",
+    "target": "btn_use_04@cn.png",
+    "source": "btn_use_04@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "kartPass_lobby_passBtnEvent_1@cn.png",
+    "source": "kartPass_lobby_passBtnEvent_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "kartPass_lobby_passBtnEvent_2@cn.png",
+    "source": "kartPass_lobby_passBtnEvent_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "kartPass_lobby_passBtnEvent_3@cn.png",
+    "source": "kartPass_lobby_passBtnEvent_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "kartPass_lobby_passBtnEvent_4@cn.png",
+    "source": "kartPass_lobby_passBtnEvent_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "kartPass_lobby_passInfo2@cn.png",
+    "source": "kartPass_lobby_passInfo2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission1_timeattack_1@cn.png",
+    "source": "riderSchool/btn_proMission1_timeattack_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission1_timeattack_2@cn.png",
+    "source": "riderSchool/btn_proMission1_timeattack_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission1_timeattack_3@cn.png",
+    "source": "riderSchool/btn_proMission1_timeattack_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission1_timeattack_4@cn.png",
+    "source": "riderSchool/btn_proMission1_timeattack_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission2_shadow_1@cn.png",
+    "source": "riderSchool/btn_proMission2_shadow_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission2_shadow_2@cn.png",
+    "source": "riderSchool/btn_proMission2_shadow_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission2_shadow_3@cn.png",
+    "source": "riderSchool/btn_proMission2_shadow_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/btn_proMission2_shadow_4@cn.png",
+    "source": "riderSchool/btn_proMission2_shadow_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_emblem_1@cn.png",
+    "source": "riderSchool/riderSchool_btn_emblem_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_emblem_2@cn.png",
+    "source": "riderSchool/riderSchool_btn_emblem_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_emblem_3@cn.png",
+    "source": "riderSchool/riderSchool_btn_emblem_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_emblem_4@cn.png",
+    "source": "riderSchool/riderSchool_btn_emblem_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_getlicense_1@cn.png",
+    "source": "riderSchool/riderSchool_btn_getlicense_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_getlicense_2@cn.png",
+    "source": "riderSchool/riderSchool_btn_getlicense_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_getlicense_3@cn.png",
+    "source": "riderSchool/riderSchool_btn_getlicense_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mainMenu.rho",
+    "target": "riderSchool/riderSchool_btn_getlicense_4@cn.png",
+    "source": "riderSchool/riderSchool_btn_getlicense_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqGameFinal.rho",
+    "target": "greenWin@cn.png",
+    "source": "greenWin@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_Autostart_1@cn.png",
+    "source": "btn_Autostart_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_Autostart_2@cn.png",
+    "source": "btn_Autostart_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_Autostart_3@cn.png",
+    "source": "btn_Autostart_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_Autostart_4@cn.png",
+    "source": "btn_Autostart_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_cancel_1@cn.png",
+    "source": "btn_cancel_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_cancel_2@cn.png",
+    "source": "btn_cancel_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_cancel_3@cn.png",
+    "source": "btn_cancel_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_cancel_4@cn.png",
+    "source": "btn_cancel_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_gameStart1@cn.png",
+    "source": "btn_gameStart1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_ready_1@cn.png",
+    "source": "btn_ready_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_ready_2@cn.png",
+    "source": "btn_ready_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_ready_3@cn.png",
+    "source": "btn_ready_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_ready_4@cn.png",
+    "source": "btn_ready_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_start_1@cn.png",
+    "source": "btn_start_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_start_2@cn.png",
+    "source": "btn_start_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_start_3@cn.png",
+    "source": "btn_start_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqReady.rho",
+    "target": "btn_start_4@cn.png",
+    "source": "btn_start_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_mqTierMatchingReady.rho",
+    "target": "ready@cn.png",
+    "source": "ready@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_tuning.rho",
+    "target": "tutorial_1@cn.png",
+    "source": "tutorial_1@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_tuning.rho",
+    "target": "tutorial_2@cn.png",
+    "source": "tutorial_2@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_tuning.rho",
+    "target": "tutorial_3@cn.png",
+    "source": "tutorial_3@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stage_tuning.rho",
+    "target": "tutorial_4@cn.png",
+    "source": "tutorial_4@zz.png",
+    "locale": "zz"
+  },
+  {
+    "archive": "stuff.rho",
+    "target": "balloon/카트x메이플스토리풍선/메이플스토리풍선@cn.png",
+    "source": "balloon/카트x메이플스토리풍선/메이플스토리풍선@zz.png",
+    "locale": "zz"
+  }
+]
