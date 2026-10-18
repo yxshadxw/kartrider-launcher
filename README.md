@@ -4,7 +4,7 @@ This fork contains the upstream launcher source and separate English and Korean 
 
 ## English resource patch
 
-Get the [latest English patch release](https://github.com/yxshadxw/kartrider-launcher/releases/tag/en-patch-2026.10.18.1). See [english-translation/README.md](english-translation/README.md) for instructions. It translates supported game text, fixes several machine-translated UI strings, and converts the shipped Korean bitmap glyphs to the game's native bitmap-font format. Images are unchanged.
+Get the [latest English patch release](https://github.com/yxshadxw/kartrider-launcher/releases/tag/en-patch-2026.10.18.2). See [english-translation/README.md](english-translation/README.md) for instructions. It translates supported game text, fixes several machine-translated UI strings, and converts the shipped Korean bitmap glyphs to the game's native bitmap-font format. Images are unchanged.
 
 ## Korean resource patch
 

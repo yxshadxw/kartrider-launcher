@@ -1,14 +1,13 @@
 """Build an English text patch and native bitmap-font repair from a local install."""
 from pathlib import Path
 import collections, hashlib, json, re, struct, sys, unicodedata, zlib
-from unidecode import unidecode
 
 from decode_pk import Reader
 from read_rho import Rho
 from korean_resources import encode_xml, patch_archive, read_game_index
 from native_font import font_tree, native_font_payloads
 
-BASE = Path(__file__).resolve().parent
+BASE = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parent))
 DISPLAY_KEYS = set("text altText caption stateText value title msg characterName script passMsg EventString challenge userWin userLose retireChallenge retireUserWin retireUserLose motto desc mission missionText rewardMsg subTitle synopsis howToClear prize restrictionMsg string v careerDesc helpString stockCardName mixName q message dialogCaption dialogDesc stockDesc additionalDesc tabTitle seasonTitle baseNotice completeNotice labelText rewardMessage idealType info noticeString cc story skillName skillDesc eventMsg alarmMsgFormat missionTitle addDesc kartString resultMsg missionDesc npcName".split())
 NAME_TAGS = {"TierMatching", "gp", "emblem", "mixEntity", "Level", "AiRider", "Tune", "Item", "F1Rider", "rid", "comboItem", "pcCafeBenefit", "exceedType", "Event", "color", "aura"}
 MULTI_NAME_TAGS = {"track", "track_crz", "track_rvs", "challenge", "item"}
@@ -40,7 +39,6 @@ def clean(value, source=""):
     }
     for old, new in replacements.items():
         value = value.replace(old, new)
-    value = unidecode(value)
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     value = value.replace('"', "'").replace("&", "and").replace("<", "(").replace(">", ")")
     value = re.sub(r"\b(?:preserved eggs?|Piedan|Pidan)\b", "Dao", value, flags=re.I)
@@ -49,6 +47,30 @@ def clean(value, source=""):
     if "\uce74\ud2b8" in source or "\uce74\ud2b8\ub77c\uc774\ub354" in source:
         value = re.sub(r"\bcartrider\b|\bcart rider\b", "KartRider", value, flags=re.I)
         value = re.sub(r"\bcartridges?\b", "kart", value, flags=re.I)
+    value = re.sub(r"Would you like to go to the\s*\|\s*My Garage Upgrade to use the %s\?", "Would you like to open Garage Upgrade to use %s?", value, flags=re.I)
+    value = re.sub(r"You do not have a\s*\|\s*growth cart to use %s\.", "You don't own a Growth Kart that can use %s.", value, flags=re.I)
+    value = re.sub(r"If 100% can be achieved, I will distribute A\+ lubricants to everyone\. Beep!", "If we hit 100%, I'll give everyone A+ lubricants. Beep!", value, flags=re.I)
+    value = re.sub(r"(\d{4}\.\d{2}\.\d{2} ~ \d{4}\.\d{2}\.\d{2}) The most win riders in the Death Match mode are the emblem that will give you the best rider TOP 7\.", r"\1 Top 7 Deathmatch racers earn this emblem.", value, flags=re.I)
+    value = re.sub(r"\bThe [Ee]mb[e]?lem that will give you\b.*", "Emblem awarded for completing this career.", value, flags=re.I)
+    value = re.sub(r"\bThe SVIP pass rod\.", "SVIP Pass Wand", value, flags=re.I)
+    value = re.sub(r"\bSVIP Pass Sticks?\b", "SVIP Pass Wand", value, flags=re.I)
+    value = re.sub(r"\b(?:Achieving the VIP rank!|VIP level reached VIP)\b", "VIP Rank Achieved!", value, flags=re.I)
+    value = re.sub(r"\b(?:The VIP exchange\.|VIP exchange shop)\b", "VIP Exchange Shop", value, flags=re.I)
+    value = re.sub(r"I'm on my way to the VIP exchange\.", "Go to VIP Exchange Shop", value, flags=re.I)
+    value = re.sub(r"VIP level has reached gold\.", "You reached VIP Gold.", value, flags=re.I)
+    value = re.sub(r"VIP levels reach Silver", "You reached VIP Silver.", value, flags=re.I)
+    value = re.sub(r"VIP level reaches crystal", "You reached VIP Crystal.", value, flags=re.I)
+    value = re.sub(r"VIP Level Platinum", "VIP Platinum reached.", value, flags=re.I)
+    value = re.sub(r"VIP Rank", "VIP Rewards Guide", value, count=1) if value.strip() == "VIP Rank" else value
+    value = re.sub(r"%d VIP Membership Service started!\|Click here to check your VIP level\.\|And also the VIP benefits available!\|It's going to the main interface when you click\.", "%d-month VIP membership started!|Click to view your VIP level and benefits.|Click to go to the main screen.", value, flags=re.I)
+    value = re.sub(r"You can get VIP-rated rewards\. .*?\|VIP exchange rate is not available during the season end, VIP coins will be deleted\.", "Use [color:255 36 129 255][VIP Coins][/color] from VIP rank rewards to exchange for items at the VIP Exchange Shop.|Unused VIP Coins are removed when the season ends.", value, flags=re.I)
+    value = re.sub(r"It is a dedicated item used by VIP Exchange and you can earn according to the accumulated score during the evaluation period\.\|VIP Coins will be reset when the exchange season ends\.", "VIP Coins are exclusive to the VIP Exchange Shop. The amount awarded depends on your points during the ranking period.|Unused VIP Coins are removed when the season ends.", value, flags=re.I)
+    value = re.sub(r"Premium grade score \[[^]]*\]You can check it out\..*?\|VIP exchange rate is not available during the season end, VIP coins will be deleted\.", "Check your VIP rank points in [My Info].|VIP Coins are awarded based on mileage earned during the previous month.|The number of coins awarded per 1,000 mileage points depends on your previous month's VIP benefits.|Unused VIP Coins are removed when the season ends.", value, flags=re.I)
+    value = re.sub(r"The 'Golden Winner' emblem is for racers who felt the 'Winner' emblem was missing that final 2%\. It gives your look an extra upgrade\.", "The 'Golden Winner' emblem adds the final 2% the 'Winner' emblem was missing and gives your profile an extra touch.", value, flags=re.I)
+    value = re.sub(r"Top Season Reward Reached", "Highest Season Reward Unlocked", value, flags=re.I)
+    value = re.sub(r"Nimble Snail's Log Shortcut", "Nymph Snail's Log Shortcut", value, flags=re.I)
+    value = re.sub(r"Fantasy Elf \[Fantasy Elf: Kingdom of Elves ~ Arcana\] Complete!", "Fantasy Elf: Kingdom of Elves - Arcana Complete!", value, flags=re.I)
+    value = re.sub(r"The target kart body's Exceed type changes randomly to S/L/B based on probability, consuming the materials\.", "The kart body's Exceed type changes randomly to S, L, or B. Materials are consumed.", value, flags=re.I)
     # Prevent literal percentages such as "100% chance" from resembling a printf token.
     value = re.sub(r"(?<=\d)%\s+(?=[A-Za-z])", " percent ", value)
     return value
