@@ -1,6 +1,6 @@
 ﻿# KartRider English resource patch
 
-This package translates supported in-game text to English and rebuilds the game's native bitmap fonts from Korean glyph data already shipped in the client. The release ZIP includes `Launcher.exe`, the standalone `KartRider-English-Patcher.exe`, patcher source, and dependency licenses. A compatible game client with its data files is required separately. Image-baked text is unchanged.
+This package translates supported in-game text to English and rebuilds the game's native bitmap fonts from Korean glyph data already shipped in the client. The client release ZIP includes `Launcher-Client.exe`, the standalone `KartRider-English-Patcher.exe`, patcher source, and dependency licenses. A compatible game client with its data files is required separately. Image-baked text is unchanged.
 
 ## Requirements
 
@@ -17,7 +17,7 @@ Download `KartRider-English-Patcher.exe` from the [English patch release](https:
 .\KartRider-English-Patcher.exe "C:\path\to\KartRider\Data" "C:\path\to\english-patch-output"
 ```
 
-Close the game before patching. Back up the original `Data` folder, then copy the generated files into that folder. To use the bundled launcher, back up your existing `Launcher.exe` and copy the bundled `Launcher.exe` into the game folder beside `KartRider.exe`. Start the game through `Launcher.exe`. `Launcher.exe.sha256` records the bundled launcher's SHA-256 hash.
+Close the game before patching. Back up the original `Data` folder, then copy the generated files into that folder. To use the bundled client launcher, back up your existing `Launcher-Client.exe` and copy the bundled `Launcher-Client.exe` into the game folder beside `KartRider.exe`. Start the game through `Launcher-Client.exe`. `Launcher-Client.exe.sha256` records the client launcher's SHA-256 hash.
 
 ## Build the patch with Python
 
